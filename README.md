@@ -1,2 +1,1 @@
-# wordpress-developer-test-project
-Wordpress Developer Test Project
+# Wordpress Developer Test Project
